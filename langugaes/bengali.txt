@@ -3,3 +3,5 @@ Bokachoda,
 Meye,
 Chor,
 Juti,
+Khanki,
+Maghi
