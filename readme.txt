@@ -4,6 +4,7 @@ I have added a txt of different languages and some swear words form each languag
 more swear words in the existing laguages.
 Ill create a python package of them once we have a better list of the words.
 
+
 Please make all changes in the develop branch
 
 Thanks To All those who are contributing.
